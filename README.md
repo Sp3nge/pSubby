@@ -18,27 +18,21 @@ CONFIGURE SHODAN API! (shodan init <api key>)
 ```
 
 ### Installing (coming soon)
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+git clone https://github.com/Sp3nge/pSubby.git
 ```
-Give the example
+cd pSubby
+chmod +x psubby.sh
+./pSubby <domain-name>
 ```
 
-And repeat
+Results
 
+1) In terminal
+2) In pSubby_results directory
 ```
-until finished
+cd pSubby_results
+cd <domain-name>
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
