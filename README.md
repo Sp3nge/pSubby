@@ -1,6 +1,6 @@
 # pSubby
 
-Passive subdomain enumeration tool
+Passive subdomain enumeration tool by SpengeSec
 
 ## Getting Started
 
